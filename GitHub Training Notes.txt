@@ -1,0 +1,11 @@
+GitHub
+
+Microsoft product for sharing and collaboration on coding projects. 
+
+Repositories are the central place where all projects and files are housed. This is so everyone knows what's being worked on. 
+
+
+Repository - Project 1 - jamesterry31/README.md
+
+Updates are required to commit a ReadMe file. 
+
